@@ -1,0 +1,621 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpthemes.co.nz - framework\n"
+"POT-Creation-Date: 2014-03-24 16:40+0800\n"
+"PO-Revision-Date: 2014-03-24 16:40+0800\n"
+"Last-Translator: ed cardinal <lizardking67@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\attorney\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/404.php:9
+msgid "Error 404 - Page Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/404.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/404.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/search.php:46
+msgid "Most Used Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/404.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/search.php:54
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_blog_slider.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_blog_slider.php:95
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_no_widget.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_no_widget.php:97
+msgid "No featured image set for this post."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_blog_slider.php:80
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_no_widget.php:82
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/image.php:30
+msgid "Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_blog_slider.php:80
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_no_widget.php:82
+msgid "&#9664;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_blog_slider.php:81
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_no_widget.php:83
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/image.php:31
+msgid "Next"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_blog_slider.php:81
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_no_widget.php:83
+msgid "&#9654;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_no_widget.php:123
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-aside.php:14
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-gallery.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-image.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-page.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content.php:52
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/image.php:78
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/alt_homepage_static_slider.php:84
+msgid "Images added to this page will appear here"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/archive.php:15
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/archive.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:104
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-full.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-home.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-post.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar.php:38
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/archive.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/author.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/category.php:44
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/index.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/search.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/tag.php:47
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/archive.php:52
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/author.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/category.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/index.php:36
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/tag.php:51
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/author.php:20
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/category.php:11
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/comments.php:41
+msgid "Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/comments.php:42
+msgid "Newer Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-aside.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-gallery.php:53
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-image.php:8
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-aside.php:20
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-image.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-page.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/image.php:92
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-gallery.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content.php:11
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-gallery.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content.php:11
+msgid "0"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-gallery.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content.php:11
+msgid "1"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-gallery.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content.php:11
+msgid "%"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-image.php:16
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-image.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-image.php:16
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:22
+msgid ", "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:30
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:32
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:38
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content-single.php:40
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/content.php:51
+msgid "Continue reading"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/footer.php:8
+msgid "&copy; "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/footer.php:10
+msgid "- Powered by "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/footer.php:10
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/footer.php:10
+msgid "WordPress"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/footer.php:11
+msgid " and "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/footer.php:11
+msgid "http://wpattorney.org/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/footer.php:11
+msgid "WP Attorney"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:33
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:34
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:101
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:102
+msgid "Tag"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:103
+msgid "Author"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:109
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:113
+msgid "Page "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:145
+msgid "Theme Color Scheme"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:153
+msgid "Site Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:155
+msgid "Upload a logo to replace the default site name in the header"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:163
+msgid ""
+"Choose your logo (ideal width is 100-300px and ideal height is 40-100px)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:171
+msgid "Social Media Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:173
+msgid "Optional social media buttons in the header"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:181
+msgid "Enter your Facebook url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:192
+msgid "Enter your Twitter url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:203
+msgid "Enter your Google+ url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:214
+msgid "Enter your Pinterest url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:225
+msgid "Enter your Linkedin url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:236
+msgid "Enter your Youtube url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:247
+msgid "Enter your Tumblr url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:258
+msgid "Enter your Instagram url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:269
+msgid "Enter your Flickr url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:280
+msgid "Enter your Vimeo url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:291
+msgid "Enter your Yelp url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:302
+msgid "Enter your RSS url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:313
+msgid "Enter your email address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:322
+msgid "Slider Options"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:324
+msgid "Adjust the behavior of the image slider."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:335
+msgid "Select Effect:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:351
+msgid "Autoplay Speed in Seconds"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:493
+msgid "Sidebar Right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:502
+msgid "Sidebar for Alt_Homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:511
+msgid "Sidebar for Full Width Template"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:520
+msgid "Sidebar for Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:541
+msgid "Post navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:551
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:555
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:577
+msgid "Pingback:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:577
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:600
+msgid "(Edit)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:587
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:590
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:598
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:625
+#, php-format
+msgid ""
+"<div class=\"att-meta\">Date <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\" class=\"att-meta-link\"><time class=\"entry-date\" datetime=\"%3$s\">"
+"%4$s</time></a></div><div class=\"att-meta\">Posted by <a class=\"url fn n "
+"att-meta-link\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></div>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:631
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:733
+#, php-format
+msgid "<div class=\"pagination\"><span>Page %1$s of %2$s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:734
+#, php-format
+msgid "<a href=\"%1$s\">&laquo; First</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:735
+#, php-format
+msgid "<a href=\"%1$s\">&lsaquo; Previous</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:745
+#, php-format
+msgid "<a href=\"%1$s\">Next &rsaquo;</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:746
+#, php-format
+msgid "<a href=\"%1$s\">Last &raquo;</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/functions.php:784
+msgid "Untitled"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:32
+msgid "Facebook"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:36
+msgid "Twitter"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:40
+msgid "Google+"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:44
+msgid "Pinterest"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:48
+msgid "Linkedin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:52
+msgid "Youtube"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:56
+msgid "Tumblr"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:60
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:64
+msgid "Instagram"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:68
+msgid "Vimeo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:72
+msgid "Yelp"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:76
+msgid "RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:80
+msgid "mailto:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:80
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:91
+msgid "Main menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/header.php:92
+msgid "Skip to content"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/image.php:16
+#, php-format
+msgid ""
+"<div class=\"att-meta\">Date <span class=\"entry-date att-meta-link\"><abbr "
+"class=\"published\" title=\"%1$s\">%2$s</abbr></span></div> <div class=\"att-"
+"meta\">Size <a href=\"%3$s\" class=\"att-meta-link\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a></div> <div class=\"att-meta\">Gallery <a "
+"href=\"%6$s\" class=\"att-meta-link\" title=\"Return to %7$s\" rel=\"gallery"
+"\">%7$s</a></div>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/image.php:84
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/image.php:86
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/image.php:88
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/image.php:90
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/search.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/search.php:41
+msgid "Or you can try these links below."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-full.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-home.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-post.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar.php:11
+msgid "Latest Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-full.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-home.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-post.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar.php:19
+msgid "View Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-full.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-home.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar-post.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/sidebar.php:28
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\attorney/tag.php:11
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
