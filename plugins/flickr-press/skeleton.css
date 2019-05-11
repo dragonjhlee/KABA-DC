@@ -1,0 +1,29 @@
+
+#flickr_photosets { }
+#flickr_photosets .photoset { }
+#flickr_photosets .photoset img.photoset_thumb { }
+#flickr_photosets .photoset h3 { }
+#flickr_photosets .photoset h3 a { }
+#flickr_photosets .photoset p { }
+
+
+#flickr_album { }
+#flickr_album img.primary { }
+#flickr_album .album_information { }
+#flickr_album .album_information p.description { }
+#flickr_album .album_information p.album_meta { }
+#flickr_album .thumbnails { }
+#flickr_album .thumbnails a.thumb { }
+#flickr_album .thumbnails img.thumb { }
+
+
+#flickr_photo { }
+#flickr_photo p.photo { }
+#flickr_photo p.photo img.photo { }
+#flickr_photo p.meta { }
+#flickr_photo p.photo_context { }
+#flickr_photo p.photo_context p { }
+#flickr_photo p.photo_context p.prev { }
+#flickr_photo p.photo_context p.next { }
+#flickr_photo p.photo_context p a { }
+#flickr_photo p.photo_context p img { }
