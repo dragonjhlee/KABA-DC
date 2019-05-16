@@ -243,6 +243,14 @@
 									<?php echo pmpro_formatPrice($auser->billing_amount);?>/<?php if($auser->cycle_number > 1) { echo $auser->cycle_number . " " . $auser->cycle_period . "s"; } else { echo $auser->cycle_period; } ?>
 								<?php } ?>
 								<?php if((float)$auser->initial_payment <= 0 && (float)$auser->billing_amount <= 0) { ?>
+									<?php //KABA
+									$custom_membership_values = get_user_meta($auser->ID, 'custom_membership_values', true);
+									if(!empty($custom_membership_values)) {
+										echo $custom_membership_values;
+									}
+									else { ?>
+									-
+									<?php }?>
 									-
 								<?php } ?>
 							</td>
