@@ -74,7 +74,7 @@ function pmpro_membership_level_profile_fields($user)
 					{
 						//KABA?>					
 						<input id="custom_membership_values" name="custom_membership_values" type="text" size="20" value="<?php echo get_user_meta($user->ID, 'custom_membership_values', true); ?>" /> 
-					<?php }										
+					<?php }					
 				}                
 				else
                 {                    
@@ -367,7 +367,7 @@ function pmpro_membership_level_profile_fields_update()
 				$expiration_changed = true;
 		}
 	}
-
+	
 	//KABA
 	if ( ! empty( $_REQUEST['custom_membership_values'] ) ) {
 		$custom_membership_values = sanitize_text_field($_REQUEST['custom_membership_values']);
