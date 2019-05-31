@@ -1053,7 +1053,7 @@ function my_show_extra_profile_fields($user)
 
 			function addBarAdmission(){
 				var fields = "<tr class='name_Table'>"
-				+ "<td style='float: left;' class='name_Table'><input type='text' name='ba_area[]' class='kaba_txtBox' placeholder='Jurisdiction/State' /></td>"
+				+ "<td class='name_Table'><input type='text' name='ba_area[]' class='kaba_txtBox' placeholder='Jurisdiction/State' /></td>"
 				+ "<td style='float: left;' class='name_Table'><input type='text' name='ba_date[]' class='kaba_txtBox' placeholder='YYYY' /></td>"
 				+ "<td class='name_Table' style='margin-left: 3%; margin-top: -0.5%;'><span class='btnDelete' style='font-size: 25px; cursor: pointer;' onclick='deleteBarAdmission()'>x</span></td>"
 				+ "</tr>";
@@ -1311,7 +1311,7 @@ function my_show_extra_profile_fields($user)
 								for ($i = 0; $i < count($ba_area_arr); $i++){
 									?>
 									<tr class="name_Table">
-										<td style="float: left;" class="name_Table"><input type="text" name="ba_area[]" value="<?php echo esc_attr($ba_area_arr[$i]); ?>"
+										<td class="name_Table"><input type="text" name="ba_area[]" value="<?php echo esc_attr($ba_area_arr[$i]); ?>"
 										<?php if(empty($ba_area_arr[$i])) {
 												?> placeholder="Jurisdiction/State" <?php
 											} ?>/> </td>
